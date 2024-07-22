@@ -1,5 +1,5 @@
 # Formula-1-Analysis
-"Get ready to shift your business into high gear with my Formula 1 Championship Insights dashboard!🚦 🌍  Explore the world of Formula 1 racing like never before with my interactive Power BI dashboard. Dive into the top 10 drivers in the championship, analyse team performance, and discover the global distribution of races. "Get ready to shift your business into high gear with my Formula 1 Championship Insights dashboard!🚦 🌍 
+ "Get ready to shift your business into high gear with my Formula 1 Championship Insights dashboard!🚦 🌍 
 Explore the world of Formula 1 racing like never before with my interactive Power BI dashboard. Dive into the top 10 drivers in the championship, analyze team performance, and discover the global distribution of races.
 With my dashboard, you'll have access to:
 Top 10 drivers in the championship, including points, positions, and more Average laps completed by each team or car Global distribution of Formula 1 races by country and continent Total laps completed, number of drivers, and number of teams participating
